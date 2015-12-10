@@ -1,0 +1,29 @@
+{
+  "name": "webScratch",
+  "homepage": "https://github.com/switchkiller/webScratch",
+  "authors": [
+    "switchkiller <emailbarung@gmail.com>"
+  ],
+  "description": "A simple web framework",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "bootstrap",
+    "jQuery"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "flexslider": "FlexSlider#~2.6.0",
+    "font-awesome": "fontawesome#~4.5.0",
+    "jquery-ui": "~1.11.4"
+  }
+}
